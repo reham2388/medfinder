@@ -32,25 +32,46 @@ Frontend	HTML5, CSS3, Bootstrap 5, Bootstrap Icons, jQuery
 Backend	PHP
 Base de données	MySQL
 Serveur local	XAMPP / WAMP (Apache + MySQL)
+
+
 📁 Structure du projet
+
+
 medfinder/
+
+
 ├── index.php
+
 ├── login.php
+
 ├── log.php
+
 ├── logout.php
+
 ├── register.php
+
 ├── register-patient.php
+
 ├── register-medecin.php
+
 ├── home-medicine-offers.php
+
 ├── home-medicine-requests.php
+
 ├── contact.html
+
 ├── withlogin/
 │   ├── patient/
 │   └── pharmacy/
+
 ├── css/
+
 ├── js/
+
 ├── fonts/
+
 └── images/
+
 🗄️ Base de données
 
 Le projet utilise une base de données MySQL nommée medfinder.
